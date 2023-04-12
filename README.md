@@ -7,7 +7,9 @@ Aplikasi ini dibangun untuk memenuhi tugas mata kuliah mobile programming. Dalam
 
 ## Konfigurasi
 * **Instalasi & Konfigurasi**
+
   + **Clone** repository ini
+  
   + Jalankan perintah
 
 ## Screenshot 
